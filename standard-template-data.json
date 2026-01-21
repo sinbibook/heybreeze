@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-01-21T02:43:39.176Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-01-21T03:21:15.226Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -295,7 +295,7 @@
     ],
     "refundPolicies": [
       {
-        "refundProcessingDays": 7,
+        "refundProcessingDays": 9,
         "refundRate": 90
       },
       {
