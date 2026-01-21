@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-01-21T01:28:43.360Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-01-21T01:32:51.887Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -535,15 +535,23 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "4caf88f5-05ae-4f0b-be66-a7a07bfac3e4",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_essence/1768958645597-5l3e0ajxlsa.jpg?quality=70",
-                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_essence/1768958645597-5l3e0ajxlsa.jpg",
+                    "id": "25e86b8b-0fe1-47d9-93da-f8e423f0f276",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_essence/1768959165557-0mbn1volq1lp.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_essence/1768959165557-0mbn1volq1lp.jpg",
                     "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "6bc7e9bf-c013-43f6-a50f-c22a67360024",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_essence/1768959165557-wth4yxz5io.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_essence/1768959165557-wth4yxz5io.jpg",
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": "자연과 어우러진\n경주 감성 풀빌라"
+                "description": "마치 해외로 떠난 듯한\n헤이브리즈 "
               },
               "gallery": {
                 "title": " Preview",
