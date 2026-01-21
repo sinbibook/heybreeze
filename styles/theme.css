@@ -1,0 +1,26 @@
+/* CDN Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+/* Font Faces */
+@font-face {
+  font-family: 'Escoredream';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-1Thin.woff') format('woff');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GyeonggiMillenniumBackground';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff') format('woff');
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* CSS Variables */
+:root {
+  --font-ko-main: 'Escoredream', sans-serif;
+  --font-ko-sub: 'GyeonggiMillenniumBackground', sans-serif;
+  --font-en-main: 'Yellowtail', sans-serif;
+  --color-primary: #F5F5F5;
+  --color-secondary: #5C82B4;
+}
