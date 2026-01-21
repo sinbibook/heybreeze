@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.17.0",
-    "generatedAt": "2026-01-21T02:18:24.719Z",
+    "version": "1.18.0",
+    "generatedAt": "2026-01-21T02:33:08.323Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -811,7 +811,23 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_signature/1768958645598-7o4lom8vngs.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_signature/1768958645598-7o4lom8vngs.jpg",
                     "sortOrder": 0,
-                    "description": "단독풀장과 야외테라스에서 즐기는 우리만의 시간",
+                    "description": "단독풀장과 야외테라스에서 즐기는\n우리만의 시간",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "3a5a73d0-eb74-42a3-9523-6114d7a9755e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_signature/1768962781705-ma0extoyskr.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_signature/1768962781705-ma0extoyskr.jpg",
+                    "sortOrder": 1,
+                    "description": "통창 너머로 야외를 바라보며\r\n자연을즐기는 반신욕의 여유",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "18d220da-c0ab-4b24-8dad-ab35cdbd3f34",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_signature/1768962781705-bmheptd8glk.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_signature/1768962781705-bmheptd8glk.jpg",
+                    "sortOrder": 2,
+                    "description": "야외 수영장에서 느끼는\r\n해외 리조트의 분위기",
                     "isSelected": true
                   }
                 ],
