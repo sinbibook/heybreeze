@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-01-21T04:22:15.052Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-01-21T04:32:43.637Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -75,7 +75,7 @@
             "id": "5847e3f2-2ea4-44bc-8c26-afdcf6b2d49c",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/facility/8ccc5154-7e78-45cb-9e27-7a9f52010da7/main/1768961105399-1ma8zeyyns2.jpg?quality=70",
             "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8ccc5154-7e78-45cb-9e27-7a9f52010da7/main/1768961105399-1ma8zeyyns2.jpg",
-            "sortOrder": 2,
+            "sortOrder": 3,
             "description": " ",
             "isSelected": true
           },
@@ -83,7 +83,7 @@
             "id": "0bd086e8-c358-4624-ad65-b9cd9acdb715",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/facility/8ccc5154-7e78-45cb-9e27-7a9f52010da7/main/1768961755501-882z0dbx88h.jpg?quality=70",
             "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8ccc5154-7e78-45cb-9e27-7a9f52010da7/main/1768961755501-882z0dbx88h.jpg",
-            "sortOrder": 1,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true
           },
@@ -91,8 +91,16 @@
             "id": "d3bf36f4-1c85-4362-90b0-4ad5f11b70a6",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/facility/8ccc5154-7e78-45cb-9e27-7a9f52010da7/main/1768961105399-tqovqvt8r8i.jpg?quality=70",
             "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8ccc5154-7e78-45cb-9e27-7a9f52010da7/main/1768961105399-tqovqvt8r8i.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": " ",
+            "isSelected": true
+          },
+          {
+            "id": "bc4a544a-7177-4fa8-86e0-7b18cf9625d2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/facility/8ccc5154-7e78-45cb-9e27-7a9f52010da7/main/1768969248459-feabvtcsg4.jpg?quality=70",
+            "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8ccc5154-7e78-45cb-9e27-7a9f52010da7/main/1768969248459-feabvtcsg4.jpg",
+            "sortOrder": 0,
+            "description": "",
             "isSelected": true
           }
         ]
@@ -157,7 +165,7 @@
             "id": "f63cc222-28f7-4446-951d-8ff05dbc533a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-8zaihbv1n1q.jpg?quality=70",
             "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-8zaihbv1n1q.jpg",
-            "sortOrder": 9,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true
           },
@@ -165,7 +173,7 @@
             "id": "23b7a3b5-2408-493f-8b65-e1e1b736cf44",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-kcg15a3zohf.jpg?quality=70",
             "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-kcg15a3zohf.jpg",
-            "sortOrder": 8,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true
           },
@@ -173,7 +181,7 @@
             "id": "d4c43372-decc-4e68-a939-3ab6df4d3934",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-gmzg5geins.jpg?quality=70",
             "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-gmzg5geins.jpg",
-            "sortOrder": 11,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true
           },
@@ -181,15 +189,7 @@
             "id": "1b629516-eb9c-4c55-ad87-cd5fa7e2f57a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-micqlrpcnil.jpg?quality=70",
             "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-micqlrpcnil.jpg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "64a571b2-6762-4344-b47b-4b80aef97e77",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-9i9ua1syfwp.jpg?quality=70",
-            "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-9i9ua1syfwp.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true
           },
@@ -213,7 +213,7 @@
             "id": "51226416-6b60-4f74-9ec3-2141da677f8c",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-ptx3wqikzk.jpg?quality=70",
             "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-ptx3wqikzk.jpg",
-            "sortOrder": 10,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true
           },
@@ -221,7 +221,7 @@
             "id": "888d5449-d292-4dcb-8197-bcd0b32861d4",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-pqgfx5lgqh.jpg?quality=70",
             "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-pqgfx5lgqh.jpg",
-            "sortOrder": 12,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true
           },
@@ -237,7 +237,7 @@
             "id": "57f87479-46a2-41d5-bb2e-e7597b03ab4c",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-fw92ic47b19.jpg?quality=70",
             "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-fw92ic47b19.jpg",
-            "sortOrder": 5,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true
           },
@@ -245,7 +245,7 @@
             "id": "89591b79-1036-415f-92c4-350d6f8766c1",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-quiui61g45.jpg?quality=70",
             "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b9a2de95-c1bc-4d45-aa41-af1c4620cd8b/main/1768961110266-quiui61g45.jpg",
-            "sortOrder": 6,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true
           }
@@ -728,7 +728,7 @@
                 "description": " "
               },
               "essence": {
-                "title": "기분좋은 바람이 경쾌한 시작을 알리는 헤이브리즈 풀빌라",
+                "title": "기분 좋은 산들바람 솔솔 부는 완벽한 하루. 경쾌한 시작을 알리는 헤이브리즈 풀빌라",
                 "images": [
                   {
                     "id": "25e86b8b-0fe1-47d9-93da-f8e423f0f276",
@@ -747,7 +747,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "기분 좋은 산들바람"
+                "description": "Hey Breeze, breathe the breeze"
               },
               "gallery": {
                 "title": " Preview",
