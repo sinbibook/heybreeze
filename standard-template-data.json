@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-01-21T01:32:51.887Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-01-21T01:44:42.270Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -551,7 +551,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "마치 해외로 떠난 듯한\n헤이브리즈 "
+                "description": "마치 해외로 \n떠난 듯한\n헤이브리즈 "
               },
               "gallery": {
                 "title": " Preview",
@@ -569,7 +569,7 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_gallery/1768958645598-ebgsxo370en.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_gallery/1768958645598-ebgsxo370en.jpg",
                     "sortOrder": 1,
-                    "description": "Swim",
+                    "description": "PoolVilla",
                     "isSelected": true
                   },
                   {
@@ -595,6 +595,14 @@
                     "sortOrder": 4,
                     "description": "Spa",
                     "isSelected": true
+                  },
+                  {
+                    "id": "e309fc2a-11f0-42d5-9795-aa3486709bce",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_gallery/1768959834361-j440y9lkv09.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_gallery/1768959834361-j440y9lkv09.jpg",
+                    "sortOrder": 5,
+                    "description": "View",
+                    "isSelected": true
                   }
                 ],
                 "description": " "
@@ -607,7 +615,7 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_signature/1768958645598-7o4lom8vngs.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_signature/1768958645598-7o4lom8vngs.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "단독풀장과 야외테라스에서 즐기는 우리만의 시간",
                     "isSelected": true
                   }
                 ],
