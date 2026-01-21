@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-01-21T01:24:19.038Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-01-21T01:27:13.138Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -524,7 +524,7 @@
                     "id": "ec96bcbc-a50a-4842-9636-0e7624ca161e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_closing/1768958645598-ivkwov22lb.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_closing/1768958645598-ivkwov22lb.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   }
@@ -552,7 +552,7 @@
                     "id": "d0394447-8953-4998-9c6d-da04f672d721",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_gallery/1768958645598-6qqvpr3wckh.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_gallery/1768958645598-6qqvpr3wckh.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 0,
                     "description": "야외수영장",
                     "isSelected": true
                   },
@@ -598,7 +598,7 @@
                     "id": "989c1097-e4f5-4b6e-ae74-9261c25a8e50",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_signature/1768958645598-7o4lom8vngs.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_signature/1768958645598-7o4lom8vngs.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   }
@@ -626,10 +626,37 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "경주의 바람과 함께 쉬어가는 풀빌라",
+                "images": [
+                  {
+                    "id": "d78dc6b5-133b-4455-8430-cafa6747ae64",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/main_hero/1768958824351-v4chmq7op3q.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/main_hero/1768958824351-v4chmq7op3q.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "바람이 머무는 자리에서\n하루의 속도를 천천히 낮춥니다\n고요한 공간에 햇살이 스며들고\n물 위에 비친 시간마저 느려집니다\n소란 없는 풀에서 즐기는 여유\n오롯이 나만을 위한 휴식\n아무것도 하지 않아도 충분한 순간\n일상에서 한 걸음 멀어지는 곳\n자연과 쉼이 나란히 놓인 자리\n경주 헤이브리즈 풀빌라"
               },
-              "about": []
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "244d038b-a270-406a-960c-0ee99acc521b",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/main_about/1768958824352-38cupkb4ezl.jpg?quality=70",
+                      "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/main_about/1768958824352-38cupkb4ezl.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "b389cf5e-ec48-49d5-a941-87a852eb050d"
+                    }
+                  ],
+                  "blockId": "b389cf5e-ec48-49d5-a941-87a852eb050d",
+                  "description": "머무는 동안 아무것도 서두르지 않아도 되는 곳\n풀과 바람이 하루를 채워주고\n쉼이 자연스럽게 이어지는 시간\n경주 헤이브리즈 풀빌라에서 완성됩니다"
+                }
+              ]
             }
           ]
         },
