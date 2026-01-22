@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.25.0",
-    "generatedAt": "2026-01-21T07:08:39.771Z",
+    "version": "1.26.0",
+    "generatedAt": "2026-01-22T01:46:51.340Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -639,20 +639,20 @@
                 "title": "헤이브리즈 풀빌라",
                 "images": [
                   {
-                    "id": "d7dc408e-eb37-4431-afbf-a0bfde1e8b6e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768899490995-1aqv5mv7kaf.jpg?quality=70",
-                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768899490995-1aqv5mv7kaf.jpg",
+                    "id": "8cd7d697-14ba-4c48-86fa-f3c8ff32c823",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902104-61jqb6q4cv7.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902104-61jqb6q4cv7.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "8cd7d697-14ba-4c48-86fa-f3c8ff32c823",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902104-61jqb6q4cv7.jpg?quality=70",
-                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902104-61jqb6q4cv7.jpg",
+                    "id": "d7dc408e-eb37-4431-afbf-a0bfde1e8b6e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768899490995-1aqv5mv7kaf.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768899490995-1aqv5mv7kaf.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": false
                   },
                   {
                     "id": "d30576c5-c4cb-4b5d-8cea-ca5ac012ccd1",
@@ -747,7 +747,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "Hey Breeze, breathe the breeze"
+                "description": "Hey Breeze, \nbreathe the breeze"
               },
               "gallery": {
                 "title": " Preview",
@@ -874,9 +874,9 @@
                 "title": "경주의 바람과 함께 쉬어가는 풀빌라",
                 "images": [
                   {
-                    "id": "0aa8fed8-6237-4cf4-ad13-07df5db6ba64",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/main_hero/1768959940314-qjcho96lkya.jpg?quality=70",
-                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/main_hero/1768959940314-qjcho96lkya.jpg",
+                    "id": "ab2d9814-09c4-404d-b5ed-a9d280814462",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/main_hero/1769045427233-h4pl9l1dt9w.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/main_hero/1769045427233-h4pl9l1dt9w.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
@@ -972,21 +972,21 @@
       "property": {
         "images": [
           {
-            "id": "241bb66a-936f-4657-91d5-92301ea7824e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/property_thumbnail/1768899198686-t7j9lxm54l.jpg?quality=70",
-            "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/property_thumbnail/1768899198686-t7j9lxm54l.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": false,
-            "category": "property_thumbnail"
-          },
-          {
             "id": "6d2a319c-062a-4d86-8944-871ca77d8633",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/property_thumbnail/1768976382835-flgtrqox1u.jpg?quality=70",
             "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/property_thumbnail/1768976382835-flgtrqox1u.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "category": "property_thumbnail"
+          },
+          {
+            "id": "241bb66a-936f-4657-91d5-92301ea7824e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/property_thumbnail/1768899198686-t7j9lxm54l.jpg?quality=70",
+            "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/property_thumbnail/1768899198686-t7j9lxm54l.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": false,
             "category": "property_thumbnail"
           },
           {
