@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.30.0",
-    "generatedAt": "2026-01-22T08:15:02.132Z",
+    "version": "1.31.0",
+    "generatedAt": "2026-01-22T08:18:48.245Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -360,7 +360,7 @@
       "description": "",
       "roomInfo": "",
       "group": null,
-      "size": 59.5,
+      "size": 60,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -393,7 +393,7 @@
         "마운틴뷰"
       ],
       "roomStructures": [
-        "독채"
+        "스튜디오"
       ],
       "status": "active",
       "images": [
