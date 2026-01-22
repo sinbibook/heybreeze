@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.27.0",
-    "generatedAt": "2026-01-22T03:10:56.817Z",
+    "version": "1.28.0",
+    "generatedAt": "2026-01-22T03:12:35.573Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -687,9 +687,9 @@
                     "isSelected": true
                   },
                   {
-                    "id": "d18b73ba-d889-4bfd-b60d-1b0a280994b4",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902105-dggfx5vukf5.jpg?quality=70",
-                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902105-dggfx5vukf5.jpg",
+                    "id": "1ebb8e8e-7ba6-4679-8941-35331b1b8a27",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769051550098-xtmcx90zlik.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769051550098-xtmcx90zlik.jpg",
                     "sortOrder": 6,
                     "description": "",
                     "isSelected": true
@@ -959,9 +959,9 @@
           },
           "koMain": {
             "cdn": null,
-            "key": "escoredream",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-1Thin.woff",
-            "family": "Escoredream"
+            "key": "schoolsafetystarrysky",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2408-5@1.0/HakgyoansimByeolbichhaneulTTF-L.woff2",
+            "family": "SchoolSafetyStarrySky"
           }
         },
         "color": {
