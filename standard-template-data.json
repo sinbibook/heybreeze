@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.32.0",
-    "generatedAt": "2026-01-22T08:33:47.808Z",
+    "version": "1.33.0",
+    "generatedAt": "2026-01-23T00:47:29.217Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -961,9 +961,9 @@
           },
           "koMain": {
             "cdn": null,
-            "key": "schoolsafetystarrysky",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2408-5@1.0/HakgyoansimByeolbichhaneulTTF-L.woff2",
-            "family": "SchoolSafetyStarrySky"
+            "key": "imhyemin",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2",
+            "family": "ImHyeMin"
           }
         },
         "color": {
