@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.34.0",
-    "generatedAt": "2026-01-26T05:52:13.224Z",
+    "version": "1.35.0",
+    "generatedAt": "2026-01-26T07:02:30.221Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -14,7 +14,7 @@
     "address": "경북 경주시 천북면 갈곡성지길 174-27",
     "latitude": 35.8926298997344,
     "longitude": 129.291200294243,
-    "contactPhone": "010-8796-9338",
+    "contactPhone": "0507-1401-9338",
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
@@ -2119,6 +2119,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "e82901c0-8571-4c45-9be0-07de9da63ffa"
   }
 }
