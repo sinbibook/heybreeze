@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.36.0",
-    "generatedAt": "2026-01-26T08:57:10.138Z",
+    "version": "1.37.0",
+    "generatedAt": "2026-01-27T07:18:21.181Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -326,7 +326,7 @@
     ],
     "nameEn": "Gyeongju heybreeze Pool Villa",
     "domain": "heybreeze.kr",
-    "realtimeBookingId": "10491",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/10491",
     "ybsId": "79307"
   },
   "rooms": [
@@ -1954,7 +1954,6 @@
           ]
         }
       ]
-    },
-    "id": "e82901c0-8571-4c45-9be0-07de9da63ffa"
+    }
   }
 }
