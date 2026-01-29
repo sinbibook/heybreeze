@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.38.0",
-    "generatedAt": "2026-01-29T06:18:50.529Z",
+    "version": "1.39.0",
+    "generatedAt": "2026-01-29T06:41:57.082Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -616,65 +616,58 @@
                 "title": "헤이브리즈 풀빌라",
                 "images": [
                   {
-                    "id": "8cd7d697-14ba-4c48-86fa-f3c8ff32c823",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902104-61jqb6q4cv7.jpg",
+                    "id": "6e519a87-eed4-4ce5-a62e-9a5785602de0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769668528274-unxliy4d7gp.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "d7dc408e-eb37-4431-afbf-a0bfde1e8b6e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768899490995-1aqv5mv7kaf.jpg",
-                    "sortOrder": 1,
-                    "description": "",
-                    "isSelected": false
-                  },
-                  {
                     "id": "d30576c5-c4cb-4b5d-8cea-ca5ac012ccd1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902105-83nv2pbremg.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "8958bc17-2781-4c9f-991f-32ad33dc8159",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902105-f9g91r3t2lk.jpg",
-                    "sortOrder": 3,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "deae76f8-259e-440f-8e84-287742f77cf6",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902105-ks8k2q1ze6.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "fd4b8309-2293-496e-b142-fc13b6a6844a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902105-6lcz4bvj5r5.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "4ea0f50f-eeb7-4fc5-984f-9de5afc2406e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769668528275-w3qdo66ufya.jpg",
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "1ebb8e8e-7ba6-4679-8941-35331b1b8a27",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769051550098-xtmcx90zlik.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "16243de5-3b6c-47b7-92db-dda299b3fa47",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902105-bpvihryz8dw.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "d5555ea0-ec6b-439c-80bb-2f3caee74c4e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902105-cgh60mh3gh.jpg",
-                    "sortOrder": 8,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true
                   }
@@ -732,17 +725,17 @@
                     "isSelected": true
                   },
                   {
-                    "id": "a88bf6a5-a73c-486d-88eb-0a14e169dff4",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_gallery/1768958645598-oxy7yff8ol.jpg",
+                    "id": "8b2971c5-57cb-4852-81bb-5b51d337d1e8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_gallery/1769668528275-qnfken10hf.jpg",
                     "sortOrder": 2,
-                    "description": "바베큐장",
+                    "description": "야외테라스",
                     "isSelected": true
                   },
                   {
-                    "id": "6302aa59-988f-4143-8596-b5618756e1c4",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_gallery/1768958645598-etw0lexg3o.jpg",
+                    "id": "a88bf6a5-a73c-486d-88eb-0a14e169dff4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_gallery/1768958645598-oxy7yff8ol.jpg",
                     "sortOrder": 3,
-                    "description": "야외 테라스",
+                    "description": "바베큐장",
                     "isSelected": true
                   },
                   {
