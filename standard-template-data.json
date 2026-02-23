@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.52.0",
-    "generatedAt": "2026-02-13T01:03:28.170Z",
+    "version": "1.53.0",
+    "generatedAt": "2026-02-23T00:15:12.156Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -318,7 +318,7 @@
   "rooms": [
     {
       "id": "5730eaaa-9714-4496-9d77-d3a48fe1e702",
-      "name": "헤이 101호(풀빌라, 개별바베큐)",
+      "name": "헤이 101호(원룸형 풀빌라, 개별바베큐)",
       "description": "",
       "roomInfo": "",
       "group": null,
@@ -369,7 +369,7 @@
     },
     {
       "id": "54f71008-f5ea-4090-9b39-5820185e08a7",
-      "name": "헤이 102호(풀빌라, 개별바베큐)",
+      "name": "헤이 102호(복층형 풀빌라, 개별바베큐)",
       "description": "",
       "roomInfo": "",
       "group": null,
@@ -420,7 +420,7 @@
     },
     {
       "id": "facbc9f3-f128-45d7-a0d8-6bdf69fcefa7",
-      "name": "헤이 103호(풀빌라, 개별바베큐)",
+      "name": "헤이 103호(복층형 풀빌라, 개별바베큐)",
       "description": "",
       "roomInfo": "",
       "group": null,
@@ -471,7 +471,7 @@
     },
     {
       "id": "622f8ca2-61db-4081-ac0a-cf5468ca3850",
-      "name": "헤이 104호(풀빌라, 개별바베큐)",
+      "name": "헤이 104호(복층형 풀빌라, 개별바베큐)",
       "description": "",
       "roomInfo": "",
       "group": null,
@@ -522,7 +522,7 @@
     },
     {
       "id": "b9123726-2d9a-4a34-b3d0-ec14b7e6d719",
-      "name": "헤이 201호(스파, 개별바베큐)",
+      "name": "헤이 201호(복층형 스파, 개별바베큐)",
       "description": "",
       "roomInfo": "",
       "group": null,
