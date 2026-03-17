@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.54.0",
-    "generatedAt": "2026-02-23T00:15:45.851Z",
+    "version": "1.55.0",
+    "generatedAt": "2026-03-17T08:01:30.372Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -304,8 +304,94 @@
     },
     "images": [
       {
-        "thumbnail": [],
-        "exterior": [],
+        "thumbnail": [
+          {
+            "id": "1674caf1-2aee-4e53-acbe-8df8553fbc46",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb3a8931-efb6-47d8-9ddd-1f3606dbe267/thumbnail/1773128766120-s9424frv1jb.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ],
+        "exterior": [
+          {
+            "id": "a3e7914d-88ea-44e1-bdd7-bd6972aa4d74",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb3a8931-efb6-47d8-9ddd-1f3606dbe267/exterior/1773128766120-sqlq4vycix.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "03dc130e-53ba-4381-951e-fc617bf473ef",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb3a8931-efb6-47d8-9ddd-1f3606dbe267/exterior/1773128766120-l16j126idid.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "09128b26-79b3-4d15-b14c-32bff064ffe2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb3a8931-efb6-47d8-9ddd-1f3606dbe267/exterior/1773128766120-6s6vunjxr29.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "8e23af77-0bc9-4101-9528-1523f054e93d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb3a8931-efb6-47d8-9ddd-1f3606dbe267/exterior/1773128766120-ib23k0jk00j.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "6390ed54-f468-467b-9074-94efdb989514",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb3a8931-efb6-47d8-9ddd-1f3606dbe267/exterior/1773128766120-ct6z6dc9hc.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "270ddbf3-1882-4e79-8b0f-c4e3b7ce3703",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb3a8931-efb6-47d8-9ddd-1f3606dbe267/exterior/1773128766120-4w8vajwmrj5.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ab6ba7f8-b0f6-448a-b3a7-112ba3adb033",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb3a8931-efb6-47d8-9ddd-1f3606dbe267/exterior/1773128766120-8v55h762bkf.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "b2b7743d-bd03-4e9d-a046-a60d31067d3e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb3a8931-efb6-47d8-9ddd-1f3606dbe267/exterior/1773128766120-a5zwjp6fqfh.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "f0f14880-449e-4b44-abfd-0634bd3eea2a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb3a8931-efb6-47d8-9ddd-1f3606dbe267/exterior/1773128766120-39kf65ugs0d.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "fc0e7151-6094-4a09-a562-5cea718ecb8f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb3a8931-efb6-47d8-9ddd-1f3606dbe267/exterior/1773128766120-oa1cnnpyi2.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "44a57f1d-a202-421c-9d96-58a9c87abd23",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/fb3a8931-efb6-47d8-9ddd-1f3606dbe267/exterior/1773128766120-podqmgvrhtb.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          }
+        ],
         "surrounding": [],
         "commonArea": []
       }
@@ -321,6 +407,7 @@
       "name": "헤이 101호(원룸형 풀빌라, 개별바베큐)",
       "description": "",
       "roomInfo": "",
+      "usageGuide": "",
       "group": null,
       "size": 60,
       "baseOccupancy": 2,
@@ -372,6 +459,7 @@
       "name": "헤이 102호(복층형 풀빌라, 개별바베큐)",
       "description": "",
       "roomInfo": "",
+      "usageGuide": "",
       "group": null,
       "size": 66,
       "baseOccupancy": 2,
@@ -423,6 +511,7 @@
       "name": "헤이 103호(복층형 풀빌라, 개별바베큐)",
       "description": "",
       "roomInfo": "",
+      "usageGuide": "",
       "group": null,
       "size": 66,
       "baseOccupancy": 2,
@@ -474,6 +563,7 @@
       "name": "헤이 104호(복층형 풀빌라, 개별바베큐)",
       "description": "",
       "roomInfo": "",
+      "usageGuide": "",
       "group": null,
       "size": 66,
       "baseOccupancy": 2,
@@ -525,6 +615,7 @@
       "name": "헤이 201호(복층형 스파, 개별바베큐)",
       "description": "",
       "roomInfo": "",
+      "usageGuide": "",
       "group": null,
       "size": 66,
       "baseOccupancy": 2,
@@ -2090,7 +2181,6 @@
           ]
         }
       ]
-    },
-    "id": "e82901c0-8571-4c45-9be0-07de9da63ffa"
+    }
   }
 }
