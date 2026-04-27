@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.59.0",
-    "generatedAt": "2026-04-27T07:53:15.153Z",
+    "version": "1.60.0",
+    "generatedAt": "2026-04-27T07:54:12.986Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -810,13 +810,6 @@
                     "isSelected": true
                   },
                   {
-                    "id": "a256e840-bbde-4c0e-a314-ced67f161bfa",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774893-l4i4fcedw2.jpg",
-                    "sortOrder": 1,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
                     "id": "914135c2-3098-47ab-a258-686f86602170",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774895-ybonyxxm5n.jpg",
                     "sortOrder": 1,
@@ -986,9 +979,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " ",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": " "
               },
               "essence": {
                 "title": "기분 좋은 산들바람 솔솔 부는 완벽한 하루. 경쾌한 시작을 알리는 헤이브리즈 풀빌라",
@@ -1008,9 +1001,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "Hey Breeze, \nbreathe the breeze",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": "Hey Breeze, \nbreathe the breeze"
               },
               "gallery": {
                 "title": " Preview",
@@ -1058,9 +1051,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " ",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": " "
               },
               "signature": {
                 "title": " ",
@@ -1087,9 +1080,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": " ",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": " "
               }
             }
           ]
