@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.58.0",
-    "generatedAt": "2026-04-21T08:24:53.979Z",
+    "version": "1.59.0",
+    "generatedAt": "2026-04-27T07:53:15.153Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "fb3a8931-efb6-47d8-9ddd-1f3606dbe267",
     "homepageId": "e82901c0-8571-4c45-9be0-07de9da63ffa"
@@ -819,6 +819,13 @@
                   {
                     "id": "914135c2-3098-47ab-a258-686f86602170",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774895-ybonyxxm5n.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "eb516ccb-45b8-4af5-a505-39a609d83a75",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774896-9tnnmuv3ous.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true
@@ -831,120 +838,120 @@
                     "isSelected": true
                   },
                   {
+                    "id": "7a7ecc81-fb6c-4f8d-8672-b5ab7fabbb5e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774896-b7q125w2xfg.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "9d767794-c364-46b3-a3e0-5bb3fbfbd978",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774895-y0qa4z08ioa.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "8958bc17-2781-4c9f-991f-32ad33dc8159",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902105-f9g91r3t2lk.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "3811623a-55f6-445f-b58c-bf5c31fc3778",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774895-jt02blhgf8.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "fd4b8309-2293-496e-b142-fc13b6a6844a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902105-6lcz4bvj5r5.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 8,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "4ea0f50f-eeb7-4fc5-984f-9de5afc2406e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769668528275-w3qdo66ufya.jpg",
-                    "sortOrder": 8,
+                    "sortOrder": 9,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "38f48507-f4ff-4b8b-8f9a-f015f7bf730c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774895-ulaiio1ivsi.jpg",
-                    "sortOrder": 9,
+                    "sortOrder": 10,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "b690f83f-efb3-4beb-bdaa-5ebe691900de",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774895-231tkpcokm.jpg",
-                    "sortOrder": 10,
+                    "sortOrder": 11,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "1ebb8e8e-7ba6-4679-8941-35331b1b8a27",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769051550098-xtmcx90zlik.jpg",
-                    "sortOrder": 11,
+                    "sortOrder": 12,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "16243de5-3b6c-47b7-92db-dda299b3fa47",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902105-bpvihryz8dw.jpg",
-                    "sortOrder": 12,
+                    "sortOrder": 13,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "016fadce-138a-4260-a851-2bd51f707fbe",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774895-dse5j7lifx9.jpg",
-                    "sortOrder": 13,
+                    "sortOrder": 14,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "842678fb-9e6a-4513-b090-0abdc1dfb55a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774895-qjsjptl0cv.jpg",
-                    "sortOrder": 14,
+                    "sortOrder": 15,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "d5555ea0-ec6b-439c-80bb-2f3caee74c4e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1768957902105-cgh60mh3gh.jpg",
-                    "sortOrder": 15,
+                    "sortOrder": 16,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "36c40693-d36b-49db-87c0-390370fba85d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774895-36w705iqygs.jpg",
-                    "sortOrder": 16,
+                    "sortOrder": 17,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "fee12dce-4d38-43a5-b260-e0204776f847",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774896-01xlcwsfnmjv.jpg",
-                    "sortOrder": 17,
+                    "sortOrder": 18,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "8667215b-dc29-4abd-b936-47e4c8ea0138",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774896-q8vavkzxhrj.jpg",
-                    "sortOrder": 18,
+                    "sortOrder": 19,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "79cb5ecc-d3e8-4a0e-b6e1-80ee1954d646",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774896-kwidsvxoq8l.jpg",
-                    "sortOrder": 19,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "eb516ccb-45b8-4af5-a505-39a609d83a75",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774896-9tnnmuv3ous.jpg",
                     "sortOrder": 20,
                     "description": "",
                     "isSelected": true
@@ -957,23 +964,16 @@
                     "isSelected": true
                   },
                   {
-                    "id": "7a7ecc81-fb6c-4f8d-8672-b5ab7fabbb5e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774896-b7q125w2xfg.jpg",
-                    "sortOrder": 22,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
                     "id": "88fb4832-4fc3-4dc0-b831-3c3c04614c45",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/e82901c0-8571-4c45-9be0-07de9da63ffa/index_hero/1769758774896-j0rnmcgxja.jpg",
-                    "sortOrder": 23,
+                    "sortOrder": 22,
                     "description": "",
                     "isSelected": true
                   }
                 ],
-                "description": " ",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": " "
               },
               "closing": {
                 "title": " ",
